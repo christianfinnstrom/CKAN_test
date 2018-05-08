@@ -9331,7 +9331,7 @@ h4 small {
 .account-masthead {
   min-height: 30px;
   color: #ffffff;
-  background: #e5e5e5 url("../../../base/images/bg.png");
+  background: #e5e5e5;
 }
 .account-masthead:before,
 .account-masthead:after {
